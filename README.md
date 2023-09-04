@@ -12,6 +12,12 @@ WE CAN ANALYAZE FROM THE HISTOGRAM THAT:
 ##### The highest frequency of the petal length is around 35 which is between 1 and 2
 ##### The highest frequency of the petal width is around 40 which is between 0.0 and 0.5
 
+
+WE CAN ANALYAZE FROM HEATMAP THAT:
+##### Petal width and petal length have high correlations. 
+##### Petal length and sepal width have good correlations.
+##### Petal Width and Sepal length have good correlations.
+
 # LIBRARIES
 ### 1)Pandas
 ### 2)Matplotlib
