@@ -1,9 +1,11 @@
 # IRIS
 
-The Iris flower data set is a multivariate data set.
+The Iris flower dataset is a multivariate data set.
 The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). 
-Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters. 
+Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.
+
 DATA VISUALIZATION IS DONE BY USING IRIS DATASET
+
 
 # LIBRARIES
 ### 1)Pandas
