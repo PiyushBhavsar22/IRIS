@@ -14,9 +14,9 @@ WE CAN ANALYAZE FROM THE HISTOGRAM THAT:
 
 
 WE CAN ANALYAZE FROM HEATMAP THAT:
-##### Petal width and petal length have high correlations. 
-##### Petal length and sepal width have good correlations.
-##### Petal Width and Sepal length have good correlations.
+- 1 Petal width and petal length have high correlations.
+- 2 Petal length and sepal width have good correlations.
+- 3 Petal Width and Sepal length have good correlations.
 
 # LIBRARIES
 ### 1)Pandas
