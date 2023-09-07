@@ -19,7 +19,7 @@ WE CAN ANALYAZE FROM HEATMAP THAT:
 - 3 Petal Width and Sepal length have good correlations.
 
 # LIBRARIES
-### 1)Pandas
-### 2)Matplotlib
-### 3)Seaborn
-### 4)Scikit-learn
+- 1)Pandas
+- 2)Matplotlib
+- 3)Seaborn
+- 4)Scikit-learn
